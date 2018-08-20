@@ -1,0 +1,27 @@
+<resources>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="showicon_width">25dp</dimen>
+    <dimen name="showicon_margin">5dp</dimen>
+    <dimen name="major_font">50dp</dimen>
+
+    <dimen name="shadow_width">4dp</dimen>
+    <dimen name="shadow_width2">24dp</dimen>
+    <dimen name="Sticker">150dp</dimen>
+    <dimen name="messagemargin">12dp</dimen>
+    <dimen name="device_size">20dp</dimen>
+    <dimen name="address_size">15dp</dimen>
+    <dimen name="title_margin">5dp</dimen>
+    <dimen name="showDeviceSize">30dp</dimen>
+    <dimen name="margin_top">15dp</dimen>
+    <dimen name="TempetatureSize">50dp</dimen>
+    <dimen name="logintextSize">30dp</dimen>
+    <dimen name="loginEditWidth">200dp</dimen>
+</resources>
