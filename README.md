@@ -18,4 +18,24 @@ We assume there is a big factory. In the factory, it will be set up a lot of tem
    2. Add Device
    3. Authorize worker
    4. Access the temperature of sencor synchronously, if the temperature exceeds a partuicular value, it will show a warning
+   
 ## Demo Video
+<Table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?feature=player_embedded&v=-EyBObxK2J4
+" target="_blank"><img src="http://img.youtube.com/vi/-EyBObxK2J4/0.jpg" 
+alt="Mobile demo" width="240" height="180" border="10" /></a></td>
+      <td><a href="http://www.youtube.com/watch?feature=player_embedded&v=onTLXl7MEwo
+" target="_blank"><img src="http://img.youtube.com/vi/onTLXl7MEwo/0.jpg" 
+alt="Mobile demo" width="240" height="180" border="10" /></a></td>
+   </tr>
+   <tr>
+      <td align="center">Mobile demo</td>
+      <td align="center">Server demo</td>
+   </tr>
+</Table>
+
+
+
+
+
