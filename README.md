@@ -1,3 +1,7 @@
+<p align="center">
+<img width="200" src="https://github.com/ChienKangLu/Nordic-nRF52-DK-and-Android-BLE-GATT/blob/master/logo.png" />
+</p>
+
 # Nordic-nRF52-DK-and-Android-BLE-GATT
 This is a project using Nordic nRF52 DK and android BLE GATT to build a high temperature reminder.
 
