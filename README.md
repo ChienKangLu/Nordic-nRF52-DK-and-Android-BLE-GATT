@@ -17,5 +17,5 @@ We assume there is a big factory. In the factory, it will be set up a lot of tem
    1. Add worker
    2. Add Device
    3. Authorize worker
-   4. Access the temperature of sencor synchronously, if the temperature exceeds a partuicular value, it will send a warn to worker
+   4. Access the temperature of sencor synchronously, if the temperature exceeds a partuicular value, it will show a warning
 ## Demo Video
