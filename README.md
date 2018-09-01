@@ -4,7 +4,7 @@ This is a project using Nordic nRF52 DK and android BLE GATT to build a high tem
 ## Scenario
 We assume there is a big factory. In the factory, it will be set up a lot of temperature sensors. Workers will receive the temperature of the sensor through the mobile device and then transmit it to the server for monitoring. Once the temperature exceeds a partuicular value. The server will warn the manager and the manager will give instructions to the workers to ensure that the temperature of the equipment is within the normal range.
 
-## Device
+## Develop tools and techniques
 + Temperature sensor: nrf52
    1. Measuring temperature and broadcasting it
    2. Every temperature sensor has its own unique "realkey"
